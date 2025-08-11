@@ -4,28 +4,47 @@ A data-driven dashboard providing actionable insights into customer behavior, sa
 
 📊 Key Insights
  1. Total Sales Overview
+    
  • Total Sales: 220.14K
+ 
  • Average Product Rating: 3.03
+ 
  • Customers: 807
+ 
  • Return Rate: 64.68%
- 2. Customer Satisfaction
+ 
+ 3. Customer Satisfaction
+ 4.     
  • Compares satisfaction across purchase types: wants-based, impulsive, need-based, planned.
- 3. Social Media Impact
+ 
+ 4. Social Media Impact
+ 
  • Analyzes how ad engagement and social influence affect sales.
- 4. Sales by Category
+ 
+ 5. Sales by Category
+
  • Breakdowns for Jewelry, Sports, Toys, Software, Food, Health Care, and more.
- 5. Monthly Sales Trends
+
+ 6. Monthly Sales Trends
+
  • Reveals seasonal shifts and growth patterns.
 
 🎯 Filters for Custom Analysis
+
  • Month
+ 
  • Gender
+ 
  • Purchase Category
+ 
  • Purchase Channel
 
 💡 Use Cases
+
  • Detect emerging trends in customer behavior.
+ 
  • Refine marketing and product strategies.
+ 
  • Enhance customer satisfaction and retention.
 
 🛠 Technologies

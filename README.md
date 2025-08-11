@@ -14,7 +14,7 @@ A data-driven dashboard providing actionable insights into customer behavior, sa
  • Return Rate: 64.68%
  
  3. Customer Satisfaction
- 4.     
+  
  • Compares satisfaction across purchase types: wants-based, impulsive, need-based, planned.
  
  4. Social Media Impact

@@ -30,5 +30,7 @@ A data-driven dashboard providing actionable insights into customer behavior, sa
 
 🛠 Technologies
  • Visualization: [Power BI]
+ 
  • Data Processing: [Excel]
+ 
  • Source: E-commerce sales dataset Kaggle

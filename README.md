@@ -29,6 +29,7 @@ A data-driven dashboard providing actionable insights into customer behavior, sa
  • Enhance customer satisfaction and retention.
 
 🛠 Technologies
+
  • Visualization: [Power BI]
  
  • Data Processing: [Excel]

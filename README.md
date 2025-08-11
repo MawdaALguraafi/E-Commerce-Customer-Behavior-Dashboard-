@@ -1,57 +1,42 @@
-## E-Commerce Customer Behavior Dashboard
+# E-Commerce Customer Behavior Dashboard
 
 A data-driven dashboard providing actionable insights into customer behavior, sales trends, and purchasing patterns for e-commerce businesses.
 
-📊 Key Insights
- 1. Total Sales Overview
-    
-  • Total Sales: 220.14K
- 
-  • Average Product Rating: 3.03
- 
-  • Customers: 807
- 
-  • Return Rate: 64.68%
- 
- 3. Customer Satisfaction
-  
-  • Compares satisfaction across purchase types: wants-based, impulsive, need-based, planned.
- 
- 4. Social Media Impact
- 
-  • Analyzes how ad engagement and social influence affect sales.
- 
- 5. Sales by Category
+## 📊 Key Insights
 
-  • Breakdowns for Jewelry, Sports, Toys, Software, Food, Health Care, and more.
+1. **Total Sales Overview**
+   - Total Sales: 220.14K
+   - Average Product Rating: 3.03
+   - Customers: 807
+   - Return Rate: 64.68%
 
- 6. Monthly Sales Trends
+2. **Customer Satisfaction**
+   - Compares satisfaction across purchase types: wants-based, impulsive, need-based, planned.
 
-  • Reveals seasonal shifts and growth patterns.
+3. **Social Media Impact**
+   - Analyzes how ad engagement and social influence affect sales.
 
-🎯 Filters for Custom Analysis
+4. **Sales by Category**
+   - Breakdowns for Jewelry, Sports, Toys, Software, Food, Health Care, and more.
 
-  • Month
- 
-  • Gender
- 
-  • Purchase Category
- 
-  • Purchase Channel
+5. **Monthly Sales Trends**
+   - Reveals seasonal shifts and growth patterns.
 
-💡 Use Cases
+## 🎯 Filters for Custom Analysis
 
-  • Detect emerging trends in customer behavior.
- 
-  • Refine marketing and product strategies.
- 
-  • Enhance customer satisfaction and retention.
+- Month
+- Gender
+- Purchase Category
+- Purchase Channel
 
-🛠 Technologies
+## 💡 Use Cases
 
-  • Visualization: [Power BI]
- 
-  • Data Processing: [Excel]
- 
-  • Source: E-commerce sales dataset Kaggle
- 
+- Detect emerging trends in customer behavior.
+- Refine marketing and product strategies.
+- Enhance customer satisfaction and retention.
+
+## 🛠 Technologies
+
+- Visualization: Power BI
+- Data Processing:Excel
+- Source: E-commerce sales dataset Kaggle
